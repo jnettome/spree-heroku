@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.description = 'Spree extension to setup Spree on Heroku'
   s.required_ruby_version = '>= 1.8.7'
 
-  s.author        = 'Trung Lê'
+  s.author        = 'Trung Le'
   s.email         = 'joneslee85@gmail.com'
   s.homepage      = 'https://github.com/joneslee85/spree-heroku'
 
